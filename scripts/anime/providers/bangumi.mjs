@@ -1,4 +1,5 @@
-const BANGUMI_API_BASE = "https://api.bgm.tv";
+// const BANGUMI_API_BASE = "https://api.bgm.tv";
+const BANGUMI_API_BASE = "https://api.bangumi.vip";
 const USER_AGENT = "Shirone/1.0 (https://github.com/shirone; AnimeSync)";
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
