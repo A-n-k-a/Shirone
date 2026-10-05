@@ -10,7 +10,7 @@ import { withUserConfig } from "../utils/config-overlay.ts";
  * 类型见 src/types/config.ts。
  */
 export const siteConfig: SiteConfig = withUserConfig("site", {
-	site: "https://shirone.mysqil.com/",
+	site: "https://shirone.anka2.top/",
 	base: "/",
 	title: "Shirone",
 	subtitle: "A Material 3 anime blog",
@@ -27,7 +27,7 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 		reduceMotion: true, // 是否展示减少动效切换
 		texture: true, // 是否展示背景纹理选择
 	},
-	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
+	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	// IANA time zone for precise post and moment timestamps. It is independent of lang.
 	timeZone: "Asia/Shanghai",
 	themeColor: {
@@ -57,8 +57,10 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 		// desktop 用于 >= 1024px；mobile 仅用于 < 1024px 的首页，手机非首页不显示壁纸。
 		// 数组顺序就是轮播顺序；只需要静态 Banner 时，每组保留一张图片即可。
 		src: {
-			desktop: ["assets/images/banner/desktop/1.webp"],
-			mobile: ["assets/images/banner/mobile/1.webp"],
+			// desktop: ["assets/images/banner/desktop/1.webp"],
+			// mobile: ["assets/images/banner/mobile/1.webp"],
+			desktop: ["https://anime-pic.anka1.top/desktop"],
+			mobile: ["https://anime-pic.anka1.top/mobile"],
 		},
 		// 图片裁切焦点："top"、"center" 或 "bottom"。
 		position: "center",
