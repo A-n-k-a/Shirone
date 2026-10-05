@@ -2,6 +2,7 @@
 title: Markdown Syntax Guide
 status: completed
 defaultCategory: Guides
+draft: true
 ---
 
 A guided walk through Shirone's Markdown capabilities, from the plain syntax
