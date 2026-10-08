@@ -133,6 +133,8 @@ from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=42)
 ```
 
+![](img/2026-10-8_17.57_1.JPG)
+
 <div style="width:100%; background:#3377bb; border-radius:6px; overflow:hidden; box-shadow:0 2px 4px rgba(0,0,0,0.2); display:flex;">
   <div style="width:80%; background:#3377bb; color:#ffffff; font-size:32px; font-weight:bold; text-align:center; padding:30px 0;">
     80% Training
@@ -201,5 +203,7 @@ df["classification"].value_counts()
 - Do not clean the dataset yet — bring your observations to Week 2.
 
 <center>Next week: Data Preprocessing and Exploration</center>
+
+Interactive Python Notebook: <a href="/obu/level6/machine-learning/week1/machine-learning_week1_seminar.ipynb" download>machine-learning_week1_seminar.ipynb</a>
 
 Source: [week1seminar.zip](https://vle.zycdut.net/sites/student.zy.cdut.edu.cn/files/attachments/week1seminar.zip)

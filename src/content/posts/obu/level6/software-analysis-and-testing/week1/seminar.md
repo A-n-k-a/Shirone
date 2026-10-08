@@ -147,3 +147,5 @@ After the practical class, further explore the functionality of Selenium IDE to 
 **Introduce Interface of Selenium IDE:**
 
 ![](img/Pasted_image_20261008152619.png)
+
+Source: [pract1-chc6072.docx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fvle.zycdut.net%2Fsites%2Fstudent.zy.cdut.edu.cn%2Ffiles%2Fattachments%2Fpract1-chc6072_0.docx&wdOrigin=BROWSELINK)
