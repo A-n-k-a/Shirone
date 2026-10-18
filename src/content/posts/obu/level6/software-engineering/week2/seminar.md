@@ -17,7 +17,7 @@ Work in a group of 3-4 students at the practical class on the following 2 exerci
 
 ### Exercise 1: Risk Analysis
 
-Consider the project of Mobile Restaurant Booking System (see Case Study of [week 1](../week1/seminar.md)). 
+Consider the project of Mobile Restaurant Booking System (see Case Study of [week 1](../../week1/seminar/)). 
 1. Identify the risks associated to the project.
 2. Assess the risk by estimate the likelihood of occurrence and the potential consequences.
 3. For each risk, propose some risk prevention/avoidance and risk impact minimization means.
