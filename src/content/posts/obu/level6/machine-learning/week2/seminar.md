@@ -480,4 +480,34 @@ Be ready to explain what the plot reveals.
 - Understand what OrdinalEncoder does—and its limitations.
 - Interpret KDE and violin plots, not just generate them.
 
+::: tip[温馨提示]
+
+数据来源于第一周的 `chronic_kidney_disease.csv`。  
+由于环境搭建教程中未安装 `seaborn` 和 `plotly` 库，此处需要额外安装。  
+如果是根据我的非 conda 安装方式，只需要在激活虚拟环境后用 `pip` 安装即可。  
+```bash
+source ml_chc6089/bin/activate
+pip install seaborn
+pip install plotly
+```
+如果安装了 Anaconda，请在 Anaconda 中安装。
+
+---
+<br>
+一些参数的补充解释：
+
+```python
+df.drop('id', axis = 1, inplace = True)
+```
+`axis = 0` 表示行, `axis = 1` 表示列。
+
+```python
+df['pcv'] = pd.to_numeric(df['pcv'], errors='coerce')
+```
+`errors='coerce'` 表示跳过错误的数据。
+
+:::
+
+Completed Interactive Python Notebook: <a href="/obu/level6/machine-learning/week2/machine-learning_week2_seminar.ipynb" download>machine-learning_week2_seminar.ipynb</a>
+
 Source: [week2-seminar.zip](https://vle.zycdut.net/sites/student.zy.cdut.edu.cn/files/attachments/week2-seminar.zip)
