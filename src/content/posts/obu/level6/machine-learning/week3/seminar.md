@@ -1,7 +1,7 @@
 ---
 title: "Seminar: Supervised Learning, Training & Testing, Model Evaluation and Classification (I)"
-published: 2026-10-15
-publishedAt: 2026-10-15T17:15:00+08:00
+published: 2026-10-22
+publishedAt: 2026-10-22T17:15:00+08:00
 description: "This week only contains some tips."
 image: "./150972939.jpg"
 tags: ["Python", "Jupyter", "Dataset"]
