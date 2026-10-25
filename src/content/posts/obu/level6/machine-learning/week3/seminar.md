@@ -1,8 +1,8 @@
 ---
-title: "Seminar: Supervised Learning, Training & Testing, Model Evaluation and Classification (I)"
+title: "Seminar: Data Splitting, Data Scaling, Data Imbalance, Logistic Regression, KNN, Confusion Matrix, and evaluation metrics"
 published: 2026-10-22
 publishedAt: 2026-10-22T17:15:00+08:00
-description: "This week only contains some tips."
+description: "This week only contains code and some tips."
 image: "./150972939.jpg"
 tags: ["Python", "Jupyter", "Dataset"]
 category: "Machine Learning"
