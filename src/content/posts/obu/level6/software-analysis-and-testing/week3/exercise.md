@@ -64,7 +64,16 @@ flowchart TD
 
 ---
 
+The following is a flow graph model, and use two different methods to calculate cyclomatic complexity of the graph and write Independent complete Paths.
+
 ![](img/Pasted_image_20261022171420.png)
+
+Reference Answer:  
+$e-n+2=10-8+2=4$  
+$p+1=3+1=4$  
+predicate nodes: 1, 2, 4
+
+---
 
 ```java
 import java.util.Scanner;

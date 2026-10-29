@@ -315,6 +315,10 @@ Given a directed graph $G$, $n$ the number of nodes in $G$, $e$ the number of ed
 $$e-n+2 = 10-7+2 = 5$$
 independent complete paths that can form a base set. 
 
+> [!TIP]
+> 重要公式：$e-n+2$  
+> $p+1$（p为predicate node，即判定节点）
+
 #### Example
 
 ![](img/Pasted_image_20261020201513.png)
