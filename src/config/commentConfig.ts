@@ -86,10 +86,10 @@ export const commentConfig: CommentConfig = withUserConfig("comment", {
 		serverURL: "https://waline.anka2.top",
 		/** 完整 UMD 客户端，按需加载；升级时与下面的 CSS 保持同版本 */
 		scriptUrl:
-			"https://cdn.jsdmirror.com/npm/@waline/client@3.16.1/dist/waline.umd.js",
+			"https://fastly.jsdelivr.net/npm/@waline/client@3.16.1/dist/waline.umd.js",
 		/** 客户端样式；同样只在评论区进入视口后加载 */
 		styleUrl:
-			"https://cdn.jsdmirror.com/npm/@waline/client@3.16.1/dist/waline.css",
+			"https://fastly.jsdelivr.net/npm/@waline/client@3.16.1/dist/waline.css",
 		/** auto 跟随文章/站点语言；也可指定 Waline 语言码，如 zh-CN、en、jp */
 		lang: "auto",
 		/** 可选文案覆盖；省略的字段使用 Waline 当前语言默认值 */
