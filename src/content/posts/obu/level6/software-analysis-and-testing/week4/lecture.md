@@ -1,5 +1,5 @@
 ---
-title: "Lecture 3: Structural Testing | Part 1: Control Flow Testing"
+title: "Lecture 4: Structural Testing | Part 2: Data Flow Testing"
 published: 2026-10-27
 publishedAt: 2026-10-27T14:30:00+08:00
 description: "Developing skills in advanced testing techniques; Understanding of principles and theory of software testing."
