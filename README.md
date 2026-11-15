@@ -12,8 +12,8 @@ A calm reading space for long-form writing, personal collections, and the small 
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-TW.md) · [日本語](./README.ja.md)
 
-![Node.js >= 22.12](https://img.shields.io/badge/Node.js-%3E%3D22.12-5FA04E?logo=nodedotjs&logoColor=white)
-![pnpm 9](https://img.shields.io/badge/pnpm-9-F69220?logo=pnpm&logoColor=white)
+![Node.js >= 26.13.0](https://img.shields.io/badge/Node.js-%3E%3D26.13.0-5FA04E?logo=nodedotjs&logoColor=white)
+![pnpm 11](https://img.shields.io/badge/pnpm-11-F69220?logo=pnpm&logoColor=white)
 ![Astro 7](https://img.shields.io/badge/Astro-7-BC52EE?logo=astro&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-3DA639.svg)](./LICENSE)
 
@@ -61,7 +61,7 @@ The theme is designed for long-form writing as well as personal collections such
 - Smooth Swup navigation with a persistent shell, route progress, and reduced-motion support
 - Markdown and MDX content with math, Mermaid, admonitions, enhanced code blocks, and image galleries
 - Full-text search powered by Pagefind, plus RSS and sitemap output
-- Article table of contents, related posts, sharing, encryption, and optional comments
+- Article table of contents, related posts, sharing, optional comments, and password protection for posts, moments, and albums
 - Dedicated pages for archives, categories, tags, friends, moments, anime, albums, projects, skills, devices, games, series, and timelines
 - Ten built-in interface locales
 - SSR-first output, keyboard-friendly interactions, and accessibility testing
@@ -80,7 +80,7 @@ repository and updates the theme with `pnpm add shirones@latest`.
 
 ### Requirements
 
-- [Node.js](https://nodejs.org/) 22.12 or newer
+- [Node.js](https://nodejs.org/) 26.13.0 or newer
 - [pnpm](https://pnpm.io/) 11.x (the repository pins `pnpm@11.28.2`)
 
 ### Run locally

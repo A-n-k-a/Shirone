@@ -24,6 +24,16 @@ export const es: Translation = {
 	[Key.momentsBanner]: "Notas cortas — vida, trabajo y pequeñas alegrías.",
 	[Key.momentsCount]: "momento",
 	[Key.momentsCounts]: "momentos",
+	[Key.momentPasswordTitle]: "Momento protegido",
+	[Key.momentPasswordDescription]:
+		"Este momento está cifrado. Introduce la contraseña para desbloquear su contenido.",
+	[Key.momentPasswordLabel]: "Contraseña",
+	[Key.momentPasswordShow]: "Mostrar contraseña",
+	[Key.momentPasswordHide]: "Ocultar contraseña",
+	[Key.momentPasswordRequired]: "Introduce una contraseña",
+	[Key.momentPasswordInvalid]: "Contraseña incorrecta",
+	[Key.momentPasswordUnlock]: "Desbloquear momento",
+	[Key.momentPasswordUnlocking]: "Descifrando…",
 	[Key.pinned]: "Fijado",
 	[Key.loadMore]: "Cargar más",
 
@@ -276,6 +286,7 @@ export const es: Translation = {
 	[Key.paginationNext]: "Página siguiente",
 	[Key.paginationPage]: "Página {page}",
 	[Key.paginationJump]: "Ir a la página",
+	[Key.paginationLabel]: "Paginación",
 	[Key.tagsViewAll]: "Ver todas las etiquetas",
 
 	[Key.author]: "Autor",
@@ -345,4 +356,13 @@ export const es: Translation = {
 		"Añade esta URL a tu lector RSS/Atom favorito (como NetNewsWire, Feedly, Inoreader o Follow) para recibir actualizaciones.",
 	[Key.feedOpenXml]: "Ver XML original",
 	[Key.feedRecentPosts]: "Artículos recientes del canal",
+	[Key.menu]: "Menú",
+	[Key.mainNavigation]: "Navegación principal",
+	[Key.navigationDrawer]: "Panel de navegación",
+	[Key.breadcrumb]: "Ruta de navegación",
+	[Key.displaySettings]: "Ajustes de pantalla",
+	[Key.searchPanel]: "Panel de búsqueda",
+	[Key.lightDarkMode]: "Modo claro/oscuro",
+	[Key.resetToDefault]: "Restablecer valores predeterminados",
+	[Key.goToAboutPage]: "Ir a la página Acerca de",
 };

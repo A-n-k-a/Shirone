@@ -25,6 +25,16 @@ export const en: Translation = {
 		"Short notes — bits of life, work and everything in between.",
 	[Key.momentsCount]: "moment",
 	[Key.momentsCounts]: "moments",
+	[Key.momentPasswordTitle]: "Protected moment",
+	[Key.momentPasswordDescription]:
+		"This moment is encrypted. Enter the password to unlock its content.",
+	[Key.momentPasswordLabel]: "Password",
+	[Key.momentPasswordShow]: "Show password",
+	[Key.momentPasswordHide]: "Hide password",
+	[Key.momentPasswordRequired]: "Enter a password",
+	[Key.momentPasswordInvalid]: "Incorrect password",
+	[Key.momentPasswordUnlock]: "Unlock moment",
+	[Key.momentPasswordUnlocking]: "Decrypting…",
 	[Key.pinned]: "Pinned",
 	[Key.loadMore]: "Load more",
 
@@ -274,6 +284,7 @@ export const en: Translation = {
 	[Key.paginationNext]: "Next page",
 	[Key.paginationPage]: "Page {page}",
 	[Key.paginationJump]: "Jump to page",
+	[Key.paginationLabel]: "Pagination",
 	[Key.tagsViewAll]: "View all tags",
 
 	[Key.author]: "Author",
@@ -343,4 +354,13 @@ export const en: Translation = {
 		"Add this feed URL to your favorite RSS/Atom reader (e.g. NetNewsWire, Feedly, Inoreader, Follow) to get instant updates.",
 	[Key.feedOpenXml]: "View Raw XML",
 	[Key.feedRecentPosts]: "Recent Posts in Feed",
+	[Key.menu]: "Menu",
+	[Key.mainNavigation]: "Main navigation",
+	[Key.navigationDrawer]: "Navigation drawer",
+	[Key.breadcrumb]: "Breadcrumb",
+	[Key.displaySettings]: "Display Settings",
+	[Key.searchPanel]: "Search Panel",
+	[Key.lightDarkMode]: "Light/Dark Mode",
+	[Key.resetToDefault]: "Reset to Default",
+	[Key.goToAboutPage]: "Go to About Page",
 };
