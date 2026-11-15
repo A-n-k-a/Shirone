@@ -166,7 +166,7 @@ y_pred = svm.predict(X_test)
 
 ### Decision Tree: Gini impurity
 
-$$\text{Gini} = 1 − \textstyle\sum p^2$$
+$$\text{Gini} = 1 − \textstyle\sum p^2$$  
 $$\text{where the proportion of samples is }p_i\text{ owing to class }i\text{ at node }t$$
 
 <div style="overflow-x: auto; padding: 8px;">
